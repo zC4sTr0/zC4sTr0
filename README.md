@@ -14,11 +14,11 @@
 
 <sub> My twitter is worth to check since it has 2 years of recorded proofs of my true love about economy, bitcoin and my own travel through the bitcoin's rabbit hole.</sub>
 
-- 🔭 I’m currently working on [GunBound GITZ](www.gitzwc.com) as Founder/CEO
+- 🔭 I’m currently working on GunBound GITZ (www.gitzwc.com) as Founder/CEO
 
 - 🌱 I’m currently studying **Solidity, Python and React Native**
 
-- 👨‍💻 All of my projects are available at [www.github.com/zC4sTr0](www.github.com/zC4sTr0)
+- 👨‍💻 All of my projects are available at www.github.com/zC4sTr0
 
 - 📫 How to reach me: **gabriel.sodre@aluno.ufop.edu.br**
 
