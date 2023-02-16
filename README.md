@@ -14,7 +14,7 @@
 
 <sub> My twitter is worth to check since it has 2 years of recorded proofs of my true love about economy, bitcoin and my own travel through the bitcoin's rabbit hole.</sub>
 
-- 🔭 I’m currently working on GunBound GITZ (www.gitzwc.com) as Founder/CEO
+- 🔭 I’m currently working on project GunBound GITZ (www.gitzwc.com) 
 
 - 🌱 I’m currently studying **Solidity, Python and React Native**
 
@@ -26,7 +26,7 @@
 
 <p  align="left">
 
-<a  href="https://twitter.com/c4str0"  target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="c4str0"  height="30"  width="40"/></a><a  href="https://www.linkedin.com/in/gabriel-castro-sodre/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/gabriel-castro-sodre/"  height="30"  width="40"  /></a>
+<a  href="https://twitter.com/c4str0"  target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="c4str0"  height="30"  width="40"/></a>
 
 </p>
 
