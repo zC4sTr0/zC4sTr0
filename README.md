@@ -12,8 +12,6 @@
 
 <p  align="left">  <a  href="https://twitter.com/c4str0"  target="blank"><img  src="https://img.shields.io/twitter/follow/c4str0?logo=twitter&style=for-the-badge"  alt="c4str0"/></a>  </p>
 
-<sub> My twitter is worth to check since it has 2 years of tweets about my studies about economy and bitcoin.</sub>
-
 - 🔭 I’m currently working on project GunBound GITZ (www.gitzwc.com) 
 
 - 🌱 I’m currently studying **Solidity, Python and React Native**
