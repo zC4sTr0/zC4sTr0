@@ -14,11 +14,9 @@
 
 - 🔭 I’m currently working on project GunBound GITZ (www.gitzwc.com) 
 
-- 🌱 I’m currently studying **Solidity, Python and React Native**
-
 - 👨‍💻 All of my projects are available at www.github.com/zC4sTr0
 
-- 📫 How to reach me: **gabriel.sodre@aluno.ufop.edu.br**
+- 📫 How to reach me: **C4sTr0@live.com**
 
 <h3  align="left">Connect with me:</h3>
 
