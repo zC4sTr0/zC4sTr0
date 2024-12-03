@@ -12,7 +12,7 @@
 
 <p  align="left">  <a  href="https://twitter.com/c4str0"  target="blank"><img  src="https://img.shields.io/twitter/follow/c4str0?logo=twitter&style=for-the-badge"  alt="c4str0"/></a>  </p>
 
-- 🔭 I’m currently working on project GunBound GITZ (www.gitzwc.com) and RaiseTips (www.raisetips.com)
+- 🔭 I’m currently working on project GunBound (www.gunbound.gnjoy.id) - Official Server
 
 - 👨‍💻 All of my projects are available at www.github.com/zC4sTr0
 
